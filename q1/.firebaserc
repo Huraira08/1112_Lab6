@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab6-d28de"
+  },
+  "targets": {
+    "lab6-d28de": {
+      "hosting": {
+        "q1": [
+          "lab6q1-1112"
+        ]
+      }
+    }
+  }
+}
